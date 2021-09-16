@@ -9,10 +9,14 @@
 
 # Strengths
 
-•User Friendly
+•User Friendly 
+
 •Easy to modify the temperature value.
+
 •The system is robust.
+
 •Low cost
+
 •Modular Based Programs
 
 # Weakness
